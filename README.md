@@ -18,7 +18,7 @@ The app displays a French word, flips the card after a short delay to reveal the
 
 ## Application Preview
 
-![App Preview](screenshots/screenshot.jpg)
+![App Preview](screenshot.jpg)
 
 
 ## Technology Used
